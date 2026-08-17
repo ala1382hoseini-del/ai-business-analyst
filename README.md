@@ -1,3 +1,10 @@
+## Live Demo
+
+Try the application here:
+
+👉 https://ai-business-analyst-bocztyyqfshkc76yonadsr.streamlit.app/
+
+The demo allows users to ask business questions in natural language and receive SQL analysis, insights, and visualizations.
 # AI Business Analyst
 
 An AI-powered business analysis assistant that allows users to ask questions about business data using natural language and receive insights, SQL queries, and visual analysis.
