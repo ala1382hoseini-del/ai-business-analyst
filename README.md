@@ -1,6 +1,6 @@
 ## Live Demo
 
-Try the application here:
+Try the application here (PLEASE TURN ON VPN):
 
 👉 https://ai-business-analyst-bocztyyqfshkc76yonadsr.streamlit.app/
 
